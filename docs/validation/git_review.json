@@ -1,0 +1,28 @@
+{
+  "all_files_check_exit": 2,
+  "inherited_whitespace_findings": 194179,
+  "note": "Imported source bytes, encodings and CRLF are preserved; inherited whitespace/CRLF warnings remain. New docs/log text normalized to LF.",
+  "new_document_check_exit": 0,
+  "staged_import_hash_mismatches": [
+    "firmware/F103_Project/APP/manual_control.c",
+    "firmware/F103_Project/HARDWARE/ad9910/AD9910V1.C",
+    "firmware/F103_Project/HARDWARE/CAPTURE/signal_capture.c",
+    "firmware/F103_Project/USER/main.c",
+    "firmware/F407_Project/MY/main.c",
+    "firmware/F407_Project/MY/measurement.c",
+    "firmware/F407_Project/MY/protocol.c"
+  ],
+  "unexpected_build_outputs": [],
+  "external_visual_paths": [],
+  "remotes": "",
+  "intentional_comment_only_changes": [
+    "firmware/F103_Project/APP/manual_control.c",
+    "firmware/F103_Project/HARDWARE/ad9910/AD9910V1.C",
+    "firmware/F103_Project/HARDWARE/CAPTURE/signal_capture.c",
+    "firmware/F103_Project/USER/main.c",
+    "firmware/F407_Project/MY/main.c",
+    "firmware/F407_Project/MY/measurement.c",
+    "firmware/F407_Project/MY/protocol.c"
+  ],
+  "hash_difference_note": "Seven documented comment-only edits; other 270 imported files unchanged."
+}

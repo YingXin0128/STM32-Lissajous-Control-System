@@ -1,0 +1,61 @@
+{
+  "changed_imported_files": [
+    {
+      "file": "firmware/F103_Project/APP/manual_control.c",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "a549ae1ec6f66108fd6545686b5c439d6ab38250905d408762fc92dabc6dd8d6",
+      "current_sha256": "42ce6cff62b475698541598ebf4c29d87e569d777f62badbb5b0fac2794cdfa5"
+    },
+    {
+      "file": "firmware/F103_Project/HARDWARE/ad9910/AD9910V1.C",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "a9d4ef8dc3ad72353fbd0f06424dd30f576ca6e9d5c759e4f702177dbb859da3",
+      "current_sha256": "253c26f976def9df406dae94447bee0a9db6e049c6c0ff0b918d3fc8b8b65aac"
+    },
+    {
+      "file": "firmware/F103_Project/HARDWARE/CAPTURE/signal_capture.c",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "d78b4b19c9b7d88eb3943b866618ed8f4694ba3627a6ff7b5aebae600e36a056",
+      "current_sha256": "cc0f5a5a0fbda635c053788b463fa9fbbfd09d521abd7e4c29067c8bf6d1856e"
+    },
+    {
+      "file": "firmware/F103_Project/USER/main.c",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "8c22ae047d183bb075a8ae75d9aef4b29d5ca607b3435b616855554776c115a5",
+      "current_sha256": "03b045b3cb6b46b256724b42d07f99f5bddba1e73ec2a535ea7c1f5990ec9e65"
+    },
+    {
+      "file": "firmware/F407_Project/MY/main.c",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "1992ac82500a4eb61b706e7f11dde10c5e70012e11408e1106ca76c6de14c49a",
+      "current_sha256": "a5be9609311c521d63e77caadc03ad5c0cd3da1be01ff320e6cb4909c91482b9"
+    },
+    {
+      "file": "firmware/F407_Project/MY/measurement.c",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "379e45805982af9b03392b87e7d48e27548cee59b24db0bc566b70a619c0dbb1",
+      "current_sha256": "790fc1596316831ae0829fec43bdd3f8ad424f85547024db951808a2696a5541"
+    },
+    {
+      "file": "firmware/F407_Project/MY/protocol.c",
+      "change": "Chinese navigation and explanatory comments only",
+      "non_comment_tokens_identical": true,
+      "original_sha256": "7dc20db974a409ee3ab53d70b171d8e0069d1633f21e87c6705be4c43dfe6604",
+      "current_sha256": "d20cd0e4611c954bd15a311c8663e833459bede1911fdebfb54df0209d6aa310"
+    }
+  ],
+  "unchanged_imported_files": 270,
+  "executable_tokens_identical": true,
+  "README_function_line_links": 16,
+  "broken_file_links": [],
+  "host_tests_passed": 6,
+  "project_config_check": "Both uvprojx files restored byte-for-byte to authoritative source after Keil rewrote IDE metadata.",
+  "F103_HEX_unchanged_after_comments": true,
+  "F407_HEX_unchanged_after_comments": true
+}

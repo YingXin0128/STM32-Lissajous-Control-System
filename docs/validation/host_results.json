@@ -1,0 +1,32 @@
+[
+  {
+    "script": "test_ftw_quantization.py",
+    "exit_code": 0,
+    "log": "validation/test_ftw_quantization.log"
+  },
+  {
+    "script": "test_measurement_protocol.py",
+    "exit_code": 0,
+    "log": "validation/test_measurement_protocol.log"
+  },
+  {
+    "script": "test_phase_hold_dpll_model_v212.py",
+    "exit_code": 0,
+    "log": "validation/test_phase_hold_dpll_model_v212.log"
+  },
+  {
+    "script": "test_runtime_ui_scheduler_v226.py",
+    "exit_code": 0,
+    "log": "validation/test_runtime_ui_scheduler_v226.log"
+  },
+  {
+    "script": "test_timestamp_dpll_model_v220.py",
+    "exit_code": 0,
+    "log": "validation/test_timestamp_dpll_model_v220.log"
+  },
+  {
+    "script": "test_v226_high_frequency_resilience.py",
+    "exit_code": 0,
+    "log": "validation/test_v226_high_frequency_resilience.log"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "firmware/F103_Project/OBJ/F103_AD9910_Diagnostics_v2_2_6.hex",
+    "bytes": 595219,
+    "sha256": "f4338030e3166ba40cfbbb80a029ae641f983c59359445d36221e97bdcf68313",
+    "validation_exit": 0
+  },
+  {
+    "path": "firmware/F407_Project/Project/Objects/F407_DualADC_Diagnostics_v2_2_6.hex",
+    "bytes": 23353,
+    "sha256": "fea44fb7b774f80e75c158c4deb961f622104a2c4b4e0b757dacd0fa36d2d9a4",
+    "validation_exit": 0
+  }
+]

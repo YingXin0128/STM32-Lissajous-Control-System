@@ -1,0 +1,8 @@
+f=  1000Hz measured=  1000.004Hz vpp=2402
+f=  2000Hz measured=  2000.000Hz vpp=2402
+f= 10000Hz measured= 10000.032Hz vpp=2402
+f= 50000Hz measured= 49999.977Hz vpp=2380
+f=100000Hz measured= 99999.977Hz vpp=2380
+1F phases=[53401, 60600, 67801, 74997, 82197, 89397] slip_error=-1000mHz
+2F phases=[30399, 37600, 44801, 52002, 59199, 66399] slip_error=-1000mHz
+RESULT=PASS

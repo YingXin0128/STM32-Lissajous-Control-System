@@ -1,0 +1,19 @@
+{
+  "name": "STM32-Lissajous-Control-System",
+  "description": "STM32F407 + STM32F103 双 MCU 李萨如控制系统：同步采样、频相测量、AD9910 DDS 与分阶段数字锁相，附源码导航和 Keil 验证记录。",
+  "visibility": "public",
+  "default_branch": "main",
+  "topics": [
+    "stm32",
+    "stm32f103",
+    "stm32f407",
+    "embedded-c",
+    "ad9910",
+    "dds",
+    "adc",
+    "dma",
+    "digital-pll",
+    "lissajous",
+    "keil"
+  ]
+}

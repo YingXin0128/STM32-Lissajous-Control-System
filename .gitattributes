@@ -1,0 +1,10 @@
+# Preserve imported firmware encodings and line endings byte for byte.
+firmware/** -text
+# New public documentation uses UTF-8 with LF.
+*.md text eol=lf
+*.py -text
+.gitignore text eol=lf
+.gitattributes text eol=lf
+docs/*.csv -text
+docs/*.txt text eol=lf
+docs/validation/** -text

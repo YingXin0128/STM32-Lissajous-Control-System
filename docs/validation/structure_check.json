@@ -1,0 +1,26 @@
+{
+  "copied_content_changes": [
+    "firmware/F103_Project/APP/manual_control.c",
+    "firmware/F103_Project/HARDWARE/ad9910/AD9910V1.C",
+    "firmware/F103_Project/HARDWARE/CAPTURE/signal_capture.c",
+    "firmware/F103_Project/USER/main.c",
+    "firmware/F407_Project/MY/main.c",
+    "firmware/F407_Project/MY/measurement.c",
+    "firmware/F407_Project/MY/protocol.c"
+  ],
+  "projects": [
+    {
+      "project": "firmware/F103_Project/USER/VirtualCOMPort.uvprojx",
+      "file_references": 45,
+      "missing_files": [],
+      "missing_include_dirs": []
+    },
+    {
+      "project": "firmware/F407_Project/Project/STM32F407.uvprojx",
+      "file_references": 16,
+      "missing_files": [],
+      "missing_include_dirs": []
+    }
+  ],
+  "content_change_note": "Intentional comments only; non-comment tokens identical. See readability_review.json."
+}

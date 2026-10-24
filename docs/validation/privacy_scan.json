@@ -1,0 +1,10 @@
+{
+  "patterns": [
+    "secret",
+    "email",
+    "personal_path"
+  ],
+  "findings": [],
+  "scope": "Selected text files outside git/build output; regex scan is not a guarantee.",
+  "additional_contact_credential_findings": []
+}

@@ -1,0 +1,9 @@
+mean_output_hz_last_20s=9999.999956742
+mean_frequency_error_millihz=-0.043258089
+max_actual_phase_error_deg_last_20s=1.261274053
+rms_actual_phase_error_deg_last_20s=0.502173364
+final_actual_phase_error_deg=1.002574699
+pow_alignments=8.000000000
+last_alignment_second=30.200000000
+io_update_transitions=3126.000000000
+PASS
